@@ -8,4 +8,7 @@ public class ClientController {
     public List<Client> findAll() {
         return null;
     }
+    public Client save(){
+        return null;
+    }
 }
