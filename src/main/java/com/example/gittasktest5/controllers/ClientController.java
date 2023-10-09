@@ -14,4 +14,7 @@ public class ClientController {
     public Client findById(){
         return null;
     }
+    public Client update(){
+        return null;
+    }
 }
