@@ -8,4 +8,7 @@ public class ClientService {
     public List<Client> findAll(){
         return null;
     }
+    public Client save(Client clientDto){
+        return null;
+    }
 }
