@@ -11,4 +11,7 @@ public class ClientController {
     public Client save(){
         return null;
     }
+    public Client findById(){
+        return null;
+    }
 }
